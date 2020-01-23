@@ -1,4 +1,4 @@
 # hello-world
 A new project
-/n Hello,
+Hello
   I just made and committed changes
